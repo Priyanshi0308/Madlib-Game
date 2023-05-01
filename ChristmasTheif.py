@@ -43,3 +43,4 @@ ELF Merry {t} Santa!\
 (BEAT)\
 \
 And scene!'
+print(SCENE)
